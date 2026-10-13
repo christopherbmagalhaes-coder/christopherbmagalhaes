@@ -63,4 +63,4 @@ Aqui no meu GitHub compartilho projetos acadêmicos, projetos desenvolvidos dura
 
 ---
 
-💡 *Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar conhecimento em projetos práticos.*
+💡 *Estou sempre buscando aprender novas tecnologias, aprimorar minhas habilidades e transformar conhecimento em projetos práticos!*
