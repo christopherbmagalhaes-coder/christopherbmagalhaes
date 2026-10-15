@@ -8,7 +8,7 @@ Também possuo conhecimentos em **POO, lógica de programação, arquitetura mod
 
 Aqui no meu GitHub compartilho projetos acadêmicos, projetos desenvolvidos durante formações e experimentos que fazem parte da minha jornada de aprendizado e evolução na programação.
 
----
+----
 
 ## 🌐 Onde me encontrar
 
