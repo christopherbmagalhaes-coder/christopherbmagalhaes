@@ -57,8 +57,13 @@ Aqui no meu GitHub compartilho projetos acadêmicos, projetos desenvolvidos dura
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=christopherbmagalhaes-coder&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&rank_icon=github&custom_title=Estat%C3%ADsticas%20do%20GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherbmagalhaes-coder&layout=donut&theme=tokyonight&hide_border=true&border_radius=12&langs_count=6&custom_title=Linguagens%20mais%20usadas" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 </p>
 
 <p align="center">
