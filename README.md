@@ -89,6 +89,7 @@ Conhecimentos introdutórios em segurança de aplicações e práticas de desenv
 
 ---
 
+
 ## 📊 Minhas Estatísticas
 
 <table align="center">
@@ -99,7 +100,7 @@ Conhecimentos introdutórios em segurança de aplicações e práticas de desenv
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" />
+      <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" />
     </td>
     <td width="50%" align="center">
       <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="100%" />
@@ -115,6 +116,7 @@ Conhecimentos introdutórios em segurança de aplicações e práticas de desenv
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=christopherbmagalhaes-coder&theme=tokyonight&hide_border=true&border_radius=12&locale=pt_BR" width="75%" />
 </p>
+
 
 ---
 
